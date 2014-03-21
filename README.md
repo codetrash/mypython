@@ -52,14 +52,14 @@ Run the script with this steps :
 
    example : 
 
-   python resizer.py /home/ubuntu/images/ 128 /home/ubuntu/new_images
+       python resizer.py /home/ubuntu/images/ 128 /home/ubuntu/new_images
 
 3. Drink your coffee and watch the terminal running the process 
 
 
 Notes: 
 =============================
-1.  Install PIL image if you dont have one
+1. Install PIL image if you dont have one
 2. ANTIALIAS and quality=90 is to prevent the image from downgrading quality 
 3. Images will be converted to .jpg extension ( its up to you, you can change it your way)
 
