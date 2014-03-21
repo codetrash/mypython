@@ -63,3 +63,5 @@ Notes:
 2. ANTIALIAS and quality=90 is to prevent the image from downgrading quality 
 3. Images will be converted to .jpg extension ( its up to you, you can change it your way)
 
+
+Tutorial about this is here : http://codetrash.com/tutorial/python or http://dzone.com/snippets/resize-thousands-images-python
