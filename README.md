@@ -55,7 +55,7 @@ Run the script with this steps :
 
    example : 
 
-       python resizer.py /home/ubuntu/images/ 128 /home/ubuntu/new_images
+         python resizer.py /home/ubuntu/images/ 128 /home/ubuntu/new_images
 
 3. Drink your coffee and watch the terminal running the process 
 
