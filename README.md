@@ -3,6 +3,9 @@ mypython
 
 Collection of useful Python scripts
 
+1. Image Resizer
+==================================
+
 I created the script to resize thousands images in a single-run Python command in Linux (Ubuntu). This will also work in Windows i guess. It can resize thousands of images ( I run it before for > 50K images)
 
 Suppose we have images stored in Folder structures like this : 
